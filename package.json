@@ -1,0 +1,12 @@
+{
+  "name": "identity-v-style-game",
+  "version": "0.1.0",
+  "description": "第五人格風2Dトップダウンゲーム (Node.js + Express + Phaser.js)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
